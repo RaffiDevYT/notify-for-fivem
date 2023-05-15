@@ -1,7 +1,7 @@
 <div align='center'><img src="images/resource_image.jpg"></div>
 <div align='center'><h3><a href="https://discord.gg/RsWzxwtAY3">Discord</a></h3></div>
 
-# rr_notify | Simple notifications
+# notify fivem | Simple notifications
 
 ### Important
 
